@@ -1,0 +1,31 @@
+export default function() {
+    return [
+        { number: 91, name: "Thomas Nielson", class: "Alpha Gamma", line: "151", big: "", major: "", hometown: "" },
+        { number: 93, name: "Allen Dao", class: "Alpha Delta", line: "112", big: "", major: "", hometown: "" },
+        { number: 94, name: "Hang Thao", class: "Alpha Delta", line: "Wong Dynasty", big: "", major: "", hometown: "" },
+        { number: 96, name: "Brandon Lee", class: "Alpha Delta", line: "Wong Dynasty", big: "", major: "", hometown: "" },
+        { number: 97, name: "Shawn Yamane", class: "Alpha Delta", line: "Wong Dynasty", big: "", major: "", hometown: "" },
+        { number: 98, name: "Schawnery Lin", class: "Alpha Delta", line: "Crown Royal", big: "", major: "", hometown: "" },
+        { number: 99, name: "Alexander Wong", class: "Alpha Delta", line: "Legacy", big: "", major: "", hometown: "" },
+        { number: 101, name: "Aashray Anand", class: "Alpha Delta", line: "Scary Line", big: "", major: "", hometown: "" },
+        { number: 102, name: "Kevin Yu", class: "Alpha Delta", line: "Tradition of Excellence", big: "", major: "", hometown: "" },
+        { number: 103, name: "Peter Chen", class: "Alpha Delta", line: "Scary Line", big: "", major: "", hometown: "" },
+        { number: 104, name: "Connor Chinn", class: "Alpha Delta", line: "Tradition of Excellence", big: "", major: "", hometown: "" },
+        { number: 105, name: "Ryan Yang", class: "Alpha Zeta", line: "Scary Line", big: "", major: "", hometown: "" },
+        { number: 106, name: "Brook Afework", class: "Alpha Zeta", line: "Big Liu, Inc.", big: "", major: "", hometown: "" },
+        { number: 107, name: "Jonah Wu", class: "Alpha Zeta", line: "Tradition of Excellence", big: "", major: "", hometown: "" },
+        { number: 108, name: "Anthony Nguyen", class: "Alpha Zeta", line: "Legacy", big: "", major: "", hometown: "" },
+        { number: 109, name: "Trey Michaels", class: "Alpha Zeta", line: "Tradition of Excellence", big: "", major: "", hometown: "" },
+        { number: 110, name: "Lucas Mah", class: "Alpha Zeta", line: "Crown Royal", big: "", major: "", hometown: "" },
+        { number: 111, name: "Naveed Karimi", class: "Alpha Zeta", line: "Cheng Family", big: "", major: "", hometown: "" },
+        { number: 112, name: "Jeehoon Park", class: "Alpha Zeta", line: "Tradition of Excellence", big: "", major: "", hometown: "" },
+        { number: 113, name: "Francis Kwon", class: "Alpha Zeta", line: "Scary Line", big: "", major: "", hometown: "" },
+        { number: 114, name: "Rome Lin", class: "Alpha Zeta", line: "Scary Line", big: "", major: "", hometown: "" },
+        { number: 115, name: "David Wong", class: "Alpha Eta", line: "112", big: "", major: "", hometown: "" },
+        { number: 116, name: "Ethan Le", class: "Alpha Eta", line: "Tanamachi", big: "", major: "", hometown: "" },
+        { number: 117, name: "Matt Cao", class: "Alpha Eta", line: "Wong Dynasty", big: "", major: "", hometown: "" },
+        { number: 118, name: "Joon Kim", class: "Alpha Eta", line: "Wong Dynasty", big: "", major: "", hometown: "" },
+        { number: 119, name: "Nathan Han", class: "Alpha Eta", line: "Kang", big: "", major: "", hometown: "" },
+        { number: 120, name: "Ozan Erdal", class: "Alpha Eta", line: "Legacy", big: "", major: "", hometown: "" }
+    ];
+}

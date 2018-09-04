@@ -16,8 +16,12 @@ class Rush extends Component {
         return(
             <div className="container">
                 <h2>About Rush</h2>
-                <div className="col">
+                <div className="container">
                     {this.renderParagraph()}
+                </div>
+                <div className="container rush-flyer">
+                    <img src="../../resources/rush_front.jpg" />
+                    <img src="../../resources/rush_back.jpg" />
                 </div>
             </div>
         );

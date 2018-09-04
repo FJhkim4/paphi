@@ -12,7 +12,7 @@ const Landing = () => {
                     <a className="nav-element row-2 text-sm-center" href="/rush">Rush</a>
                     <a className="nav-element row-2 text-sm-center" href="/brothers">Brothers</a>
                     <a className="nav-element row-2 text-sm-center" href="/chapters">Chapters</a>
-                    <a className="nav-element row-2 text-sm-center" href="/contact">Contact Us</a>
+                    <a className="nav-element row-2 text-sm-center" href="/contact-us">Contact Us</a>
                 </div>
             </div>
         </div>
