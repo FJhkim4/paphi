@@ -10,15 +10,18 @@ class BrotherList extends Component {
                 <div id={brother.name.split(' ').join('-').toLowerCase()} className="container" key={brother.number}>
                     <div className="bro-card">
                         <img src={picUrl} alt={brother.name} />
-                        <p className="bro-num">{brother.number}</p>
+                        <p className={"bro-num" + (brother.ecab ? " ecab" : "")}>{brother.number}</p>
                         <div className="overlay">
-                            <p></p>
-                            <p></p>
+                            <div className="container bro-hover">
+                                <p>Big Bro: {brother.big}</p>
+                                <p>Major: {brother.major}</p>
+                                <p>Hometown: {brother.hometown}</p>
+                            </div>
                         </div>
                     </div>
                     <div className="container bro-info">
                         <p className="big-p">{brother.name}</p>
-                        <p>{brother.class}</p>
+                        <p>{brother.class} Class</p>
                         <p>{brother.line}</p>
                     </div>
                 </div>
