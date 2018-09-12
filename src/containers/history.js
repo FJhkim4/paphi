@@ -8,7 +8,7 @@ class History extends Component {
         return this.props.history.map((paragraph) => {
                 if (paragraph.title) {
                     return (
-                        <h2 key={paragraph.title.substring(0,5)} className="row">{paragraph.title}</h2>
+                        <h2 key={paragraph.title.substring(0,5)} className="row justify-content-center">{paragraph.title}</h2>
                     );
                 }  
                 else if (paragraph.quote) {

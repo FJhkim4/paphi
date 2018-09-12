@@ -19,9 +19,9 @@ class Rush extends Component {
                 <div className="container">
                     {this.renderParagraph()}
                 </div>
-                <div className="container rush-flyer">
-                    <img src="../../resources/rush_front.jpg" />
-                    <img src="../../resources/rush_back.jpg" />
+                <div className="container">
+                    <img className="img-fluid px-2 w-50" src="../../resources/rush_front.jpg" />
+                    <img className="img-fluid px-2 w-50" src="../../resources/rush_back.jpg" />
                 </div>
             </div>
         );

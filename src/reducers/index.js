@@ -2,13 +2,13 @@ import { combineReducers } from 'redux';
 import RushReducer from './reducer_rush';
 import HistoryReducer from './reducer_history';
 import ChaptersReducer from './reducer_chapters';
-import BrothersReducer from './reducer_brothers';
+import ActivesReducer from './reducer_actives';
 
 const rootReducer = combineReducers({
   rush: RushReducer,
   history: HistoryReducer,
   chapters: ChaptersReducer,
-  brothers: BrothersReducer
+  actives: ActivesReducer
 });
 
 export default rootReducer;
