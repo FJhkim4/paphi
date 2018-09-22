@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { instaAPIKey } from '../../config/keys';
 
 class Home extends Component {
     render() {
