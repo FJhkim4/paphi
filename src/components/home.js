@@ -20,7 +20,7 @@ class Home extends Component {
 
 window.PixleeAsyncInit = function() {
     Pixlee.init({
-        apiKey: instaAPIKey
+        apiKey: 'dYaCkvnfvvPi8oonM3w'
     });
 
     Pixlee.addSimpleWidget({
