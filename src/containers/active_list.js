@@ -33,20 +33,20 @@ class ActiveList extends Component {
                         
                         <div className="rounded overlay d-flex align-items-center">
                             <div className="container hidden-info">
-                                <p className="card-text">Big Bro: {brother.big}</p>
-                                <p className="card-text">Hometown: {brother.hometown}</p>
-                                <p className="card-text">Year: {year}</p>
-                                <p className="card-text">Major: {brother.major}</p>
+                                <p className="card-text text-warning">Big Bro: {brother.big}</p>
+                                <p className="card-text text-warning">Hometown: {brother.hometown}</p>
+                                <p className="card-text text-warning">Year: {year}</p>
+                                <p className="card-text text-warning">Major: {brother.major}</p>
                             </div>
                         </div>
 
                         <div className="card-body">
-                            <h2 className="big-p card-title">{brother.name}</h2>
-                            <p className="card-info">{brother.class} Class</p>
-                            <p className="card-info">{brother.line}</p>
+                            <h2 className={"card-title big-p"+ (brother.ecab ? " text-danger" : " text-warning")}>{brother.name}</h2>
+                            <p className="card-info text-muted">{brother.class} Class</p>
+                            <p className="card-info text-muted">{brother.line}</p>
                         </div>
 
-                        <p className={"bro-num rounded" + (brother.ecab ? " ecab" : "")}>{brother.number}</p>
+                        <p className="bro-num rounded">{brother.number}</p>
                     </div>
                     
                 </div>
