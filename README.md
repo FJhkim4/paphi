@@ -1,4 +1,17 @@
-# ReduxSimpleStarter
+# Pi Alpha Phi
+
+### Deployed currently at:
+https://pi-alpha-phi.herokuapp.com/
+
+Built in React with the ReduxSimpleStarter repo with technical assistance from [Aashray Anand](https://github.com/AashrayAnand).
+
+#### Interested in ReduxSimpleStarter?
+
+For more information on the ReduxSimpleStarter repo, and for steps on using it, read further.
+
+---
+
+## ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 

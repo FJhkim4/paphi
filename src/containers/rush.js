@@ -16,12 +16,13 @@ class Rush extends Component {
         return(
             <div className="container">
                 <h2>About Rush</h2>
-                <div className="container">
-                    {this.renderParagraph()}
-                </div>
+                <p className="text-center text-muted">FALL 2018 - ALPHA THETA RUSH!</p>
                 <div className="container">
                     <img className="img-fluid px-2 w-50" src="../../resources/rush_front.jpg" />
                     <img className="img-fluid px-2 w-50" src="../../resources/rush_back.jpg" />
+                </div>
+                <div className="container">
+                    {this.renderParagraph()}
                 </div>
             </div>
         );
