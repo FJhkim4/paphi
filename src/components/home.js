@@ -6,7 +6,7 @@ class Home extends Component {
             <div id="home-page" className="container-fluid">
                 <div id="banner" className="container-fluid"></div>
                 <div className="container row justify-content-center mx-auto">
-                    <a className="nav-element" href="http://178.62.34.132">LibCal Bookings</a>
+                    <a className="nav-element" href="http://live.uwpaphi.site">LibCal Bookings</a>
                 </div>
                 <div id="home-body" className="container">
                     <h1 className="display-2">ΠΑΦ</h1>
