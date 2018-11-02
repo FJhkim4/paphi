@@ -5,9 +5,6 @@ class Home extends Component {
         return (
             <div id="home-page" className="container-fluid">
                 <div id="banner" className="container-fluid"></div>
-                <div className="container row justify-content-center mx-auto">
-                    <a className="nav-element" href="http://live.uwpaphi.site">LibCal Bookings</a>
-                </div>
                 <div id="home-body" className="container">
                     <h1 className="display-2">ΠΑΦ</h1>
                     <h1 className="lead m-0">Pi Alpha Phi - University of Washington </h1>

@@ -20,6 +20,9 @@ class Chapters extends Component {
                         {this.renderChapters()}
                     </ul>
                 </div>
+                <div className="container w-25 mx-auto">
+                    <a className="nav-element text-center" href="http://live.uwpaphi.site">LibCal Bookings</a>
+                </div>
             </div>
         );
     }
