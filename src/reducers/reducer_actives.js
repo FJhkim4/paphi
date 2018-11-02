@@ -26,6 +26,6 @@ export default function() {
         { number: 117, name: "Matt Cao", class: "Alpha Eta", line: "Wong Dynasty", big: "Hang Thao", major: "Sociology", hometown: "Newcastle, Washington", year: 4, ecab: false},
         { number: 118, name: "Joon Kim", class: "Alpha Eta", line: "Wong Dynasty", big: "Brandon Lee", major: "Business", hometown: "Mukilteo, Washington", year: 2, ecab: false},
         { number: 119, name: "Nathan Han", class: "Alpha Eta", line: "Kang", big: "Ben Chung", major: "Electrical Engineering", hometown: "Seattle, Washington", year: 2, ecab: false},
-        { number: 120, name: "Ozan Erdal", class: "Alpha Eta", line: "Legacy", big: "Tony Xie", major: "Mathematics", hometown: "Irvine, California", year: 3, ecab: false}
+        { number: 120, name: "Ozan Erdal", class: "Alpha Eta", line: "Legacy", big: "Tony Xie", major: "Applied and Computational Math Sciences", hometown: "Irvine, California", year: 3, ecab: false}
     ];
 }
