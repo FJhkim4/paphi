@@ -6,7 +6,7 @@ class Chapters extends Component {
         return this.props.chapters.map((chapter) => {
             let school = chapter.name.split("–")[1].split(',')[0].trim().split(' ').join('-').toLowerCase();
             return (
-                <li id={school} key={chapter.name.split("–")[1]} className="list-group-item"><span className="greek">{chapter.name.split("–")[0]}</span> – {chapter.name.split("–")[1]}</li>
+                <li id={school} key={chapter.name.split("–")[1]} className={"list-group-item"+ (chapter.inactive ? " text-muted" : "")}><span className="greek">{chapter.name.split("–")[0]}</span> – {chapter.name.split("–")[1]}</li>
             );
         });
     }

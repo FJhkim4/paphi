@@ -46,8 +46,6 @@ class BrotherList extends Component {
         });
     }
 
-    
-
     render() {
         return (
             <div id="brothers" className="container">
