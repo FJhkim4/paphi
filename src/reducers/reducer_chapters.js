@@ -16,7 +16,7 @@ export default function() {
         { name: 'O – University of California, Santa Barbara', inactive: false },
         { name: 'Π – University of Iowa', inactive: false },
         { name: 'Ρ – University of North Carolina, Charlotte', inactive: false },
-        { name: 'Σ – Northwestern University', inactive: false },
+        { name: 'Σ – Northwestern University', inactive: true },
         { name: 'Τ – North Carolina State University', inactive: false },
         { name: 'Υ – San Francisco State University', inactive: false },
         { name: 'Φ – Drexel State University', inactive: false },
