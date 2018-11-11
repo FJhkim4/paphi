@@ -1,7 +1,7 @@
 # Pi Alpha Phi
 
 ### Deployed currently at:
-https://pi-alpha-phi.herokuapp.com/
+http://www.uwpaphi.com
 
 Built in React with the ReduxSimpleStarter repo with technical assistance from [Aashray Anand](https://github.com/AashrayAnand).
 
